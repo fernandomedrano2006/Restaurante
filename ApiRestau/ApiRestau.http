@@ -1,0 +1,6 @@
+@ApiRestau_HostAddress = http://localhost:5218
+
+GET {{ApiRestau_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
